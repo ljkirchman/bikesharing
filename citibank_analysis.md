@@ -1,0 +1,10 @@
+# NYC Citi Bike Analysis
+The Tableau file located at https://public.tableau.com/profile/lesley.kirchman#!/vizhome/BikeShare_Challenge_15873526288150/PopulationResponse?publish=yes reviews the cities that currently offer a Bike Sharing Program with specific emphasis on New York City and 3 smaller cities with a population size similar to Des Moines, Iowa.
+## Does Population Matter?
+Initially the analysis began with a comparison of population in New York City versus Des Moines, Iowa.  Given that New York City is so much larger, the analysis focused on market trends and understanding the base New York City market.  It became clear that over 80% of New York City's Bike Sharing market were subscribers (people who bought an annual pass.)  Further, usage increased during warmer months. So the base population does matter.
+## How Successful are Smaller Cities?
+Additional research uncovered that the company that manages CitiBike in New York City, also manages bike sharing programs in 8 other cities across the United States.  While some of their programs are located in very large cities, they also have 3 programs in smaller cities, specifically Minneapolis, MN;Columbus, OH; and Portland, OR.  Two of the three cities had very active Bike Ride Sharing programs.  
+## Ride Shares increase over warmer months.
+Data from New York City was pulled for the last 12 months and plotted to see if there was any seasonality in the # of rides per month.  The analysis did show that ridership increased during the spring and summer, traditionally much warmer months.
+## Conclusion
+While population may be a factor, it does appear that cities with a much smaller population have successfully enacted a Bike Sharing Program.  Thus, other factors will need to be investigated aside from population to determine the viability of this business in Des Moines.
